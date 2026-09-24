@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben Saltuk 👋
 
-<!--
-**saltuk-cetin-06/saltuk-cetin-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bir teknoloji şirketinde elektro-mekanik montaj teknikeri olarak çalışıyorum.
+Hedefim: Görüntü işleme, Bilgisayarlı Görü ve insansız sistemler üzerine çalışan bir yapay zeka geliştiricisi olmak.
 
-Here are some ideas to get you started:
+## 🎯 Şu an
+- Python öğreniyorum
+- Sırada: OpenCV ve görüntü işlemeye en üst düzeyde hakim olmak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Yolculuğum
+24 Eylül 2026'da başladım. Her günü kayıt altına alıyorum:
+👉 [Günlük log'larım](saltuk-ai-journey reposunun linki)
+
+## 🛠️ Hedef projeler
+- Görüntü tabanlı otonom iniş yapan İHA (simülasyon)
+- Havadan nesne tespiti ve takibi
