@@ -5,7 +5,7 @@ Hedefim: Görüntü işleme, Bilgisayarlı Görü ve insansız sistemler üzerin
 
 ## 🎯 Şu an
 - Python öğreniyorum
-- Sırada: OpenCV ve görüntü işlemeye en üst düzeyde hakim olmak.
+- Sırada: OpenCV ve görüntü işlemeye en üst düzeyde hakim olmak istiyorum.
 
 ## 📅 Yolculuğum
 24 Eylül 2026'da başladım. Her günü kayıt altına alıyorum:
